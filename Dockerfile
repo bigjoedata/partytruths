@@ -22,6 +22,8 @@ EXPOSE 8080
 ENV LC_ALL=C.UTF-8
 ENV LANG=C.UTF-8
 RUN mkdir -p /root/.streamlit
+
+# Applies a custom index.html with Google Tag Manager added
 COPY /stconfigs /root/.streamlit/
 
 COPY ./stindex/index.html /usr/local/lib/python3.7/site-packages/streamlit/static
