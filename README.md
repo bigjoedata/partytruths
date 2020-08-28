@@ -1,4 +1,5 @@
-# Visit [PartyTruths.com](partytruths.com) to see the site in action.
+# Visit [PartyTruths.com](partytruths.com) to see the site in action. 
+I have omitted some code from this repository since it needs to be cleaned up but have kept some pieces I found helpful, mainly the components needed to deploy on Docker
 
 # 📣 About PartyTruths.com
 > I frequently hear claims that don't smell right. I wanted a snappy way to quickly give me the unvarnished facts. This tool isn't built to cherry-pick data points, rather it's the first part of casting a wide net.  There is a larger context to these data points and this app should just be the start of any exploration.
