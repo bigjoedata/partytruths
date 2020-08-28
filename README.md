@@ -1,4 +1,4 @@
-# Visit [PartyTruths.com](partytruths.com) to see the site in action. 
+# Visit [PartyTruths.com](https://partytruths.com) to see the site in action. 
 I have omitted some code from this repository since it needs to be cleaned up but have kept some pieces I found helpful, mainly the components needed to deploy on Docker
 
 # 📣 About PartyTruths.com
