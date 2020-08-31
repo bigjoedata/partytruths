@@ -1,4 +1,5 @@
-FROM python:3.7
+# FROM python:3.7 arguably more reliable, but bloated
+FROM python:3.7.9-slim-buster
 
 RUN pip install virtualenv
 ENV VIRTUAL_ENV=/venv
