@@ -92,7 +92,7 @@ scipy==1.5.2
 #seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
-streamlit==0.65.2
+streamlit==1.11.1
 streamlit-pandas-profiling==0.0.4
 tangled-up-in-unicode==0.0.6
 terminado==0.8.3
